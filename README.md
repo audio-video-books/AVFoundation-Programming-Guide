@@ -16,4 +16,4 @@ CSDN 地址2: [AVFoundation Programming Guide(官方文档翻译)完整版中英
 第7章：Time and Media Representations 时间和媒体表现  
 
 
-苹果源文档地址 - [点击这里](https://developer.apple.com/library/content/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/00_Introduction.html#//apple_ref/doc/uid/TP40010188-CH1-SW3)
+苹果源文档地址 - [AVFoundation Programming Guide](https://developer.apple.com/library/content/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/00_Introduction.html#//apple_ref/doc/uid/TP40010188-CH1-SW3)
